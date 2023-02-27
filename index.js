@@ -3,7 +3,7 @@
 let number = 10;
 let fullName = 'John Smith';
 
-function add(am b) {
+function add(a, b) {
     return a + b;
 }
 
